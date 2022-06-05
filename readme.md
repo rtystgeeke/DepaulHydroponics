@@ -1,0 +1,1 @@
+This is the Depaul Hydroponics Project a small scalable system built with off the shelf components.
